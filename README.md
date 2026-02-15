@@ -4,7 +4,7 @@ High school student building a focused cybersecurity portfolio through CTF chall
 
 ## Current Focus
 - CTF training (picoCTF, OverTheWire, Hack The Box, TryHackMe)
-- MIT BWSI Computer Science and Systems 2026
+- MIT BWSI Cyber Operations 2026
 - Linux, networking, and core security fundamentals
 
 ## Featured Repositories
