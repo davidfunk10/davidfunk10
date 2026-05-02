@@ -1,10 +1,10 @@
 # David Funk
 
-High school student building a focused cybersecurity portfolio through CTF challenges, structured coursework, and documented technical writeups.
+High school student in Greenville, SC who enjoys problem-solving and exploring cybersecurity.
 
 ## Current Focus
 - CTF training (picoCTF, OverTheWire, Hack The Box, TryHackMe)
-- MIT BWSI Cyber Operations 2026
+- Training for USACO Gold Next Year
 - Linux, networking, and core security fundamentals
 
 ## Featured Repositories
@@ -14,4 +14,4 @@ High school student building a focused cybersecurity portfolio through CTF chall
 
 ---
 
-This GitHub documents long-term growth in cybersecurity through consistent hands-on practice and structured learning.
+This GitHub documents long-term growth and learning in cybersecurity and computing through reflections and projects.
