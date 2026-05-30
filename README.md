@@ -6,7 +6,7 @@ High school student in Greenville, SC who enjoys problem-solving and exploring c
 - CTF training (picoCTF, OverTheWire, Hack The Box, TryHackMe)
 - Competitive programming and mathematics (USACO, AMC/AIME preparation)
 - Linux, networking, and core security fundamentals
-- Building, upgrading, and hosting a local club website (TMRC)
+- Building, upgrading, and hosting The Morning Run Club website
 
 ## Featured Repositories
 - 💻 [Competitive Programming](https://github.com/davidfunk10/competitive-programming)
