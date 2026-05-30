@@ -11,8 +11,8 @@ High school student in Greenville, SC who enjoys problem-solving and exploring c
 ## Featured Repositories
 - 💻 [Competitive Programming](https://github.com/davidfunk10/competitive-programming)
 - 🔐 [Cybersecurity Writeups](https://github.com/davidfunk10/cybersecurity-writeups)
-- 🎓 [MIT BWSI PREREQS 2026](https://github.com/davidfunk10/mit-bwsi-2026)
-- 🏃 [Morning Run Club Website](https://github.com/davidfunk10/morning-run-club-website)
+- 🎓 [MIT BWSI PREREQS 2026](https://github.com/davidfunk10/mit-bwsi-prereqs-2026)
+- 🏃 [The Morning Run Club](https://github.com/davidfunk10/the-morning-run-club)
 
 ---
 
