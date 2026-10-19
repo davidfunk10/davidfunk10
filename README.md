@@ -3,7 +3,7 @@
 High school student in Greenville, SC who enjoys problem-solving and exploring cybersecurity.
 
 ## Current Focus
-- CTF training (picoCTF, OverTheWire, Hack The Box, TryHackMe)
+- CTF training (picoCTF, Hack The Box, TryHackMe)
 - Competitive programming and mathematics (USACO, AMC/AIME preparation)
 - Linux, networking, and core security fundamentals
 - Building, upgrading, and hosting The Morning Run Club website
